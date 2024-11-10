@@ -17,6 +17,7 @@ Visit the repository on Docker Hub [here](https://hub.docker.com/repository/dock
 ## Live Demo
 Experience the project in action by visiting the live demo [here](https://firstmvc-lgonzalez-production.up.railway.app/)!
 
+![image](https://github.com/user-attachments/assets/6cc37140-966b-4479-8645-052f73ce7339)
 
 ## Authors
 
